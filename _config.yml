@@ -19,7 +19,7 @@ highlighter: rouge
 permalink: /:title/
 
 plugins:
-  # - jekyll-feed
+  - jekyll-feed
   - jekyll-seo-tag
 
 # html minify
