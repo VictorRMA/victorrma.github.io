@@ -11,6 +11,7 @@ tags:
 categories:
 twitter_text: 'Put your twitter description here.'
 introduction: 'Put your description here.'
+comments: true
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
