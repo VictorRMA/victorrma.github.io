@@ -2,7 +2,7 @@
 title: Varm - Desenvolvedor Back End
 description: A blog about lorem ipsum dolor sit amet
 baseurl: ""
-url: "https://varm.com.br"
+url: "https://victorrma.github.io"
 
 # User settings
 username: Victor Amorim
@@ -27,6 +27,19 @@ compress_html:
   comments: all
   endings: []
   profile: false
+
+  
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: Series
+    url: /series/
+  - title: Tags
+    url: /tags/
+  - title: About Me
+    url: /about/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
