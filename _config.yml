@@ -2,14 +2,14 @@
 title: Varm - Desenvolvedor Back End
 description: A blog about lorem ipsum dolor sit amet
 baseurl: ""
-url: ""
+url: "https://varm.com.br"
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+username: Victor Amorim
+user_description: Desenvolvedor Back End
+email: victor.rma@gmail.com
+twitter_username: victor_rma
+github_username:  VictorRMA
 gplus_username:  lorem_ipsum
 
 # Build settings
