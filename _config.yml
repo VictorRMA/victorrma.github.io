@@ -2,7 +2,7 @@
 title: Varm - Desenvolvedor Back End
 description: A blog about lorem ipsum dolor sit amet
 baseurl: ""
-url: "https://victorrma.github.io"
+url: "http://localhost:3000"
 
 # User settings
 username: Victor Amorim
