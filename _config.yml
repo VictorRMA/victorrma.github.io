@@ -1,8 +1,11 @@
 # Site settings
 title: Varm - Desenvolvedor Back End
-description: A blog about lorem ipsum dolor sit amet
+description: >
+  Um blog sobre desenvolvimento, com o foco em qualidade e aprendizado contínuo.
 baseurl: ""
-url: "http://localhost:3000"
+url: "https://varm.com.br"
+google_analytics: "UA-131135354-1"
+lang: pt_BR
 
 # User settings
 username: Victor Amorim
@@ -10,7 +13,6 @@ user_description: Desenvolvedor Back End
 email: victor.rma@gmail.com
 twitter_username: victor_rma
 github_username:  VictorRMA
-gplus_username:  lorem_ipsum
 
 # Build settings
 markdown: kramdown
@@ -34,8 +36,8 @@ compress_html:
 links:
   - title: Home
     url: /
-  - title: Series
-    url: /series/
+  # - title: Series
+  #   url: /series/
   - title: Tags
     url: /tags/
   - title: Sobre mim
